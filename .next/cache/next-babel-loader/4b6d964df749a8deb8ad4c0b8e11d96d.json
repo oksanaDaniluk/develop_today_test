@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["import Layout from './components/MyLayout';\nimport Link from 'next/link';\nimport axios from 'axios';\n\n"]},"metadata":{},"sourceType":"module"}
